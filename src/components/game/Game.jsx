@@ -4,7 +4,7 @@ import styles from './Game.module.css'
 import GameOption from '../gameOption/GameOption'
 import GameInfo from '../gameInfo/GameInfo'
 import Score from '../score/Score'
-import { useTransitionState } from 'vue'
+
 
 const winnerTable = [
   [0, 1, 2],
